@@ -1,1 +1,0 @@
-<?php include 'ads.php'; ?>
